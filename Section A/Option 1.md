@@ -1,4 +1,4 @@
-```{r, attr.source='.numberLines'}
+```
 class Solution:
        def groupAnagrams(self, strs):
       result = {}
@@ -15,18 +15,18 @@ print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
 
 ### Review
 
-Correctness
-Fix below errors:
-    - Correct indentation at line 3 by moving 'def group...' one space back. This needs to show as the outter most line of code since it is a function declaration and all the other lines of code needs to sit within this block.
+#### Correctness
+Fix below errors:<br/>
+    - Correct indentation at line 3 by moving 'def group...' one space back. This needs to show as the outter most line of code since it is a function declaration and all the other lines of code needs to sit within this block.<br/>
     - Pass argument (i) to sorted() at line 6, x="".join(sorted(i)), the sorted function takes at least 1 required argument
 
-Efficiency
+#### Efficiency
 This piece of code looks efficient.
 
-Style
+#### Style
 Add empty lines to separate code sections, makes it easier for readability. For example, I would suggest adding one empty line before and after variable declarations, one empty line before a return statement, etc.
 
-Documentation
+#### Documentation
 The piece of code is staright forward, no documentation required.
 
 
