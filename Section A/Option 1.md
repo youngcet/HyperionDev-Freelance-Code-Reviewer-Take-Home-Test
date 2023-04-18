@@ -1,4 +1,4 @@
-
+```
 class Solution:
        def groupAnagrams(self, strs):
       result = {}
@@ -11,7 +11,7 @@ class Solution:
       return list(result.values())
 ob1 = Solution()
 print(ob1.groupAnagrams(["eat", "tea", "tan", "ate", "nat", "bat"]))
-
+```
 
 ### Review
 
