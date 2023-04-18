@@ -1,4 +1,4 @@
-```
+```{r, attr.source='.numberLines'}
 class Solution:
        def groupAnagrams(self, strs):
       result = {}
