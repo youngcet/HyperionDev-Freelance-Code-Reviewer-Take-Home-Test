@@ -1,0 +1,1 @@
+{"version":1,"defects":{"SayNumberTest::testSayNumber":7,"SayNumberTest::testSayNumber#1":7},"times":{"SayNumberTest::testSayNumber":0.005,"SayNumberTest::testSayNumber#0":0.008,"SayNumberTest::testSayNumber#1":0,"SayNumberTest::testSayNumber#2":0,"SayNumberTest::testSayNumber#3":0}}
